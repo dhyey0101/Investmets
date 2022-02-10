@@ -1,0 +1,6 @@
+module Pods_Contact_Base_Contact_BaseTests {
+  umbrella header "Pods-Contact_Base-Contact_BaseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
